@@ -1,0 +1,9 @@
+@media (max-width: 767px)
+{
+    .line-box:first-child::after ,
+    .line-box:last-child::before
+    {
+        display: block;
+    }
+}
+  
